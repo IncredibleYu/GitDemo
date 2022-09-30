@@ -89,4 +89,3 @@ application:
       URL: URL2
     - nom: Serveur de production
       URL: URL3
-kjdhkjfqjkbvkjgqdkjvsgsbhgjqhbfj
